@@ -10,7 +10,7 @@ I write Java backends, build microservices, and tinker with Android internals on
 **Backend:** Java, Spring Boot, REST APIs, Microservices  
 **Frontend:** Next.js, React  
 **Databases:** MySQL, JPA/Hibernate  
-**Android:** LineageOS builds, kernel compilation, device trees (Snapdragon 865)  
+**Android:** LineageOS builds, kernel compilation, device trees (Realme GT Neo 3T)  
 **Tools:** Git, Shell scripting, Node.js, Maven
 
 ---

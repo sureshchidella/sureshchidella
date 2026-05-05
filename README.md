@@ -11,7 +11,7 @@ I write Java backends, build microservices, and tinker with Android internals on
 **Frontend:** Next.js, React  
 **Databases:** MySQL, JPA/Hibernate  
 **Android:** LineageOS builds, kernel compilation, device trees (Realme GT Neo 3T)  
-**Tools:** Git, Shell scripting, Node.js, Maven
+**Tools:** Git, Shell scripting, Maven
 
 ---
 
@@ -23,9 +23,9 @@ I write Java backends, build microservices, and tinker with Android internals on
 - Spring Boot applications for product listing and shopping workflows
 
 **Android / Systems**
-- Built and maintained LineageOS for OnePlus 8 series (SM8250) — kernel, device tree, vendor blobs
+- Built and maintained InfinityX, Lunaris-AOSP, CrDroid unofficially — kernel, device tree, vendor blobs
 - Custom ROM build automation scripts for local and CI builds
-- Device tree maintenance for Realme GT
+- Device tree maintenance for Realme GT Neo 3T
 
 ---
 
